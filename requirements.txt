@@ -1,0 +1,7 @@
+langchain_groq
+langchain 
+langchain_community 
+unstructured[md] 
+faiss-cpu
+pandas 
+os
