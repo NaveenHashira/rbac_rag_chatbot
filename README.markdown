@@ -57,7 +57,7 @@ rbac_rag_chatbot/
 ├── streamlit_app.py           # Streamlit-based frontend
 ├── requirements.txt           # Python dependencies
 ├── .gitignore
-└── README.md                  # Project documentation
+└── README.markdown                  # Project documentation
 ```
 
 ---
