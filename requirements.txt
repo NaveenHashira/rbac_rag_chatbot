@@ -4,4 +4,6 @@ langchain_community
 unstructured[md] 
 faiss-cpu
 pandas 
-os
+python-dotenv
+streamlit
+sentence-transformers
