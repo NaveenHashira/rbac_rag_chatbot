@@ -111,9 +111,3 @@ A company-wide chatbot allows different departments to query internal reports:
 **NaveenHashira**
 
 ---
-
-## 📜 License
-
-This project currently has **no license**. If you plan to use or contribute, please contact the author.
-
----
